@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DCJ200_10_A_K1_K'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "GCT (GLOBAL CONNECTOR TECHNOLOGY)", "DCJ200-10-A-K1-K" (!) = "", "DCJ20010AK1K", "Other", "640-DCJ200-10-A-K1-K", "https://www.mouser.co.uk/ProductDetail/GCT/DCJ200-10-A-K1-K?qs=KUoIvG%2F9Ilayx8ZZ1Qrlrg%3D%3D", "", "", "GCT (GLOBAL CONNECTOR TECHNOLOGY) - DCJ200-10-A-K1-K - DC POWER JACK, 5A, 20VDC, BLACK", "https://gct.co/files/drawings/dcj200-10.pdf", "11 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=GCT (GLOBAL CONNECTOR TECHNOLOGY)
+PartNumber=DCJ200-10-A-K1-K
+PartCategory=Connector
+PackageCategory=Other
+PinCount=3
+Version=1.2
+Released=2019-09-06 22:30:54
+Downloaded=2022-01-21 12:52:56
+3D=Y

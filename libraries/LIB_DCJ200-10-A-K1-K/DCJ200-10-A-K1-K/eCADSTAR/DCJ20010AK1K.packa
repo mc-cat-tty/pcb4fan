@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DCJ200-10-A-K1-K"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-09-06-22:30:54)
+    (mountForm default
+        (footprintRef "DCJ20010AK1K")
+        (spec "System")
+    )
+)

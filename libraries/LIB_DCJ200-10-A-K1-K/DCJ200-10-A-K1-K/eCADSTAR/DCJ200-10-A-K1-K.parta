@@ -1,0 +1,72 @@
+(Japanese_coding: sjis)
+(function "ECS_790205"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-09-06-22:30:54)
+    (utime 2020-04-09-11:18:23)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "DCJ200-10-A-K1-K")
+)
+
+
+(pinAssign "ECS_790205"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-09-06-22:30:54)
+    (utime 2020-04-09-11:18:23)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "3") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_790205")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "DCJ200-10-A-K1-K")
+)
+
+
+(part "DCJ200-10-A-K1-K"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-09-06-22:30:54)
+    (utime 2020-04-09-11:18:23)
+    (packageRef "DCJ200-10-A-K1-K")
+    (pinAssignRef "ECS_790205")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "3") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "J")
+    (property "description" "GCT (GLOBAL CONNECTOR TECHNOLOGY) - DCJ200-10-A-K1-K - DC POWER JACK, 5A, 20VDC, BLACK")
+    (property "Manufacturer_Name" "GCT (GLOBAL CONNECTOR TECHNOLOGY)")
+    (property "Manufacturer_Part_Number" "DCJ200-10-A-K1-K")
+    (property "Mouser_Part_Number" "640-DCJ200-10-A-K1-K")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/GCT/DCJ200-10-A-K1-K?qs=KUoIvG%2F9Ilayx8ZZ1Qrlrg%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://gct.co/files/drawings/dcj200-10.pdf")
+    (property "compAreaTopHeight" 11)
+)
+
+

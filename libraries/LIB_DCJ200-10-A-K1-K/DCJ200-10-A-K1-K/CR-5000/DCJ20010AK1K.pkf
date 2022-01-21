@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "DCJ20010AK1K"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "DCJ20010AK1K")
+        (spec "default")
+    )
+)
