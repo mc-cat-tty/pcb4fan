@@ -5,6 +5,13 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "pcb4fan")
+    (date "2022-01-22")
+    (rev "1.0")
+    (company "Francesco Mecatti")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)

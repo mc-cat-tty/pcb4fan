@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "pcb4fan")
+    (date "2022-01-22")
+    (rev "1.0")
+    (company "Francesco Mecatti")
+  )
+
   (lib_symbols
     (symbol "100_ohm_resistor_1" (in_bom yes) (on_board yes)
       (property "Reference" "R" (id 0) (at 0 5.08 0)
