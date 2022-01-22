@@ -136,11 +136,11 @@
       )
     )
     (symbol "power_jack_socket_1_1"
-      (pin passive line (at 7.62 1.27 180) (length 2.54)
+      (pin power_in line (at 7.62 1.27 180) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 7.62 -3.81 180) (length 2.54)
+      (pin power_in line (at 7.62 -3.81 180) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
       )
