@@ -1,6 +1,6 @@
 (footprint "pin_header" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61EBD7DD)
+  (tedit 61EBDA84)
   (attr through_hole)
   (fp_text reference "J1" (at 0 -2.54 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -58,5 +58,10 @@
       85c4eb9a-1efe-40fd-86af-36f89108b5f9
       b5e1d796-f3d8-4363-a6bf-5bf078e880e8
     )
+  )
+  (model "../libraries/LIB_PIN_HEADER/3D/PIN_HEADER_1X2.stp"
+    (offset (xyz -1.25 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )
