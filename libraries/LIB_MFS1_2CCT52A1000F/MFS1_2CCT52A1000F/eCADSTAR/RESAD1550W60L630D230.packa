@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MFS1_2CCT52A1000F"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-04-21-11:09:53)
+    (mountForm default
+        (footprintRef "RESAD1550W60L630D230")
+        (spec "System")
+    )
+)

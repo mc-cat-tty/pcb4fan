@@ -1,0 +1,9 @@
+Manufacturer=KOA Speer
+PartNumber=MFS1/2CCT52A1000F
+PartCategory=Resistor
+PackageCategory=Resistors, Axial Diameter Horizontal Mounting
+PinCount=2
+Version=1.1
+Released=2020-04-21 11:09:53
+Downloaded=2022-01-22 10:45:04
+3D=Y

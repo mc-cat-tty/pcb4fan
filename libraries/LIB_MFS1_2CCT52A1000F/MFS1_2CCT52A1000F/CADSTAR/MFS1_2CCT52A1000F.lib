@@ -1,0 +1,18 @@
+.MFS1_2CCT52A1000F :1 ;KOA 100 0.5W Metal Film Resistor +/-1% +/-50ppm/C MFS1/2CCT52A1000F
+RESAD1550W60L630D230
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN MFS1_2CCT52A1000F
+~!Manufacturer_Name (KOA Speer)
+~!Manufacturer_Part_Number (MFS1/2CCT52A1000F)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://uk.rs-online.com/web/p/products/1242843)
+~!Height (-)
+~!3D_Model (MFS1_2CCT52A1000F)
+MFS1_2CCT52A1000F
+1.1!U 2.1!U 
