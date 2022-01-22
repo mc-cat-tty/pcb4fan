@@ -1,6 +1,6 @@
 (footprint "pin_header" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61EBE94B)
+  (tedit 61EC4687)
   (attr through_hole)
   (fp_text reference "J1" (at 0 -2.54 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -25,10 +25,10 @@
   (fp_line (start -2.8256 -1.42) (end -2.8256 1.4572) (layer "B.SilkS") (width 0.08) (tstamp d9a88a97-e7e1-4571-8028-07e1b736766b))
   (fp_line (start 0.0032 0.94) (end 0.508 1.43) (layer "B.SilkS") (width 0.08) (tstamp de673e63-5f43-4989-8aea-860e28e93f50))
   (fp_rect (start -2.9592 -1.5748) (end 2.959 1.6002) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 87a0ffb1-5477-4b20-a3ac-fef5af129a33))
-  (pad "1" thru_hole circle (at -1.267 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask)
-    (clearance 0.5) (tstamp 9e813ec2-d4ce-4e2e-b379-c6fedb4c45db))
-  (pad "2" thru_hole circle (at 1.273 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask)
-    (clearance 0.5) (tstamp 18d11f32-e1a6-4f29-8e3c-0bfeb07299bd))
+  (pad "1" thru_hole circle (at -1.267 0) (size 2 2) (drill 0.762) (layers *.Cu *.Mask)
+    (clearance 0.25) (tstamp 9e813ec2-d4ce-4e2e-b379-c6fedb4c45db))
+  (pad "2" thru_hole circle (at 1.273 0) (size 2 2) (drill 0.762) (layers *.Cu *.Mask)
+    (clearance 0.25) (tstamp 18d11f32-e1a6-4f29-8e3c-0bfeb07299bd))
   (group "" (id 5600b446-cc57-4d99-a6dd-3cb2f076483c)
     (members
       b9937346-f6e7-4a0d-8b88-940809bc0c5f
