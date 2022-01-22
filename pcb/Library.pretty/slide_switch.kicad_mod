@@ -1,6 +1,6 @@
 (footprint "slide_switch" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61EB104C)
+  (tedit 61EB5430)
   (attr through_hole)
   (fp_text reference "S0" (at 0 -5.08 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -45,7 +45,7 @@
       7e30e983-e9f8-4732-8f73-81b2e1911022
     )
   )
-  (model "C:/Users/Francesco/Desktop/pcb4fan/libraries/LIB_EG1201/3D/EG1201.step"
+  (model "../libraries/LIB_EG1201/3D/EG1201.step"
     (offset (xyz 0 -0.25 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

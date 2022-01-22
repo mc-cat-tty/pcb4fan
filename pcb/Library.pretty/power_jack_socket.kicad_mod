@@ -1,6 +1,6 @@
 (footprint "power_jack_socket" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61EB0E67)
+  (tedit 61EB546E)
   (attr through_hole)
   (fp_text reference "REF**" (at 0.225 -4.375 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -38,8 +38,8 @@
   (pad "1" thru_hole rect (at 0.08 -7.52) (size 4.6 2) (drill oval 3.6 1) (layers *.Cu *.Mask) (tstamp a7520ad3-0f8b-4788-92d4-8ffb277041e6))
   (pad "2" thru_hole oval (at 0.08 -1.22) (size 4.2 2) (drill oval 3.2 1) (layers *.Cu *.Mask) (tstamp a795f1ba-cdd5-4cc5-9a52-08586e982934))
   (pad "3" thru_hole oval (at 4.88 -4.62) (size 2 4.2) (drill oval 1 3.2) (layers *.Cu *.Mask) (tstamp 46918595-4a45-48e8-84c0-961b4db7f35f))
-  (model "C:/Users/Francesco/Desktop/pcb4fan/libraries/LIB_DCJ200-10-A-K1-K/DCJ200-10-A-K1-K/3D/DCJ200-10-A-K1-K.stp"
-    (offset (xyz 0 1.2 5.5))
+  (model "../libraries/LIB_DCJ200-10-A-K1-K/DCJ200-10-A-K1-K/3D/DCJ200-10-A-K1-K.stp"
+    (offset (xyz 0 1 5.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 180 180))
   )
