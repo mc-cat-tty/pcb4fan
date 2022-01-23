@@ -68,7 +68,7 @@
       (creategerberjobfile true)
       (svguseinch false)
       (svgprecision 6)
-      (excludeedgelayer true)
+      (excludeedgelayer false)
       (plotframeref false)
       (viasonmask false)
       (mode 1)
@@ -88,7 +88,7 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
       (outputdirectory "")
     )
@@ -661,6 +661,7 @@
     )
   )
 
+  (gr_rect (start 128.99 74.62) (end 185.35 123.92) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp c44a0900-96d3-4444-b85e-dcfaae679691))
   (gr_rect (start 129.161956 74.793478) (end 185.161956 123.793478) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp cffec083-998c-40bb-bcad-9e3c90b5e3aa))
 
   (segment (start 146.999456 85.735978) (end 146.999456 77.630978) (width 0.8) (layer "F.Cu") (net 1) (tstamp 39845725-7c88-4157-986a-75be55e1ed02))

@@ -404,8 +404,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "../out/pcb.step",
+      "vrml": "../../pcbexport/pcb.wrl"
     },
     "page_layout_descr_file": ""
   },
