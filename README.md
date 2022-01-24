@@ -8,7 +8,6 @@
 ![schematic](/out/pcb_bottom.png)
 ![schematic](/out/pcb_front.png)
 ![schematic](/out/pcb_back.png)
-![schematic](/out/pcb_back.png)
 ![schematic](/out/pcb_profile.png)
 
 ## Etching mask
