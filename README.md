@@ -15,6 +15,6 @@
 
 ## Results
 <p>
-<img src="/out/real_top.jpg" width="240">
-<img src="/out/real_bottom.jpg" width="240">
+ <img src="/out/real_top.jpg" width="40%">
+ <img src="/out/real_bottom.jpg" width="40%">
 </p>
