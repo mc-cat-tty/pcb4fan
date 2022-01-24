@@ -14,5 +14,5 @@
 ![schematic](/out/etching_mask_a4_flipped.pdf)
 
 ## Results
-![top view](/out/real_top.jpg =250x)
+![top view](/out/real_top.jpg =250x250)
 ![bottom view](/out/real_bottom.jpg)
