@@ -14,5 +14,7 @@
 ![schematic](/out/etching_mask_a4_flipped.pdf)
 
 ## Results
-<img src="/out/real_top.jpg" width="200">
-<img src="/out/real_bottom.jpg" width="200">
+<p>
+<img src="/out/real_top.jpg" width="480">
+<img src="/out/real_bottom.jpg" width="480">
+</p>
